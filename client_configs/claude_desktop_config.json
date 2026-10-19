@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "custom-learning-mcp": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "D:\\cus_mcp",
+                "run",
+                "cus-mcp"
+            ],
+            "env": {}
+        }
+    }
+}
